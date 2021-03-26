@@ -1,7 +1,7 @@
 //header footer parts
 $(function() {
-    $("#header").load("/common/header.html");
-    $("#footer").load("/common/footer.html");
+    $("#header").load("/portfolio/common/header.html");
+    $("#footer").load("/portfolio/common/footer.html");
 });
 
 
