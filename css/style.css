@@ -146,7 +146,7 @@ nav > .black {
 	overflow: hidden;
 }
 .mainview {
-    background: url(../images/top_2531.png) no-repeat;
+    background: url(/images/top_2531.png) no-repeat;
     background-position: top;
 	background-size: cover;
     width: 100%;
@@ -666,7 +666,7 @@ nav > .black {
 		width: 100%;
 	}
 	.mainview {
-		background: url(../images/top_2532.png) no-repeat;
+		background: url(/images/top_2532.png) no-repeat;
 		background-size: 50% auto;
 		background-position: top 10px left 40px;
 	}
@@ -730,5 +730,40 @@ nav > .black {
 		align-self: center;
 		padding: 30px 35px;
 	}	
-		
+	
+	
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
