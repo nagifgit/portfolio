@@ -1,0 +1,18 @@
+<div class="footer_inner">
+    <ul class="flex">
+        <li><a href="index.html">HOME</a></li>
+		<li><a href="index.html#about">ABOUT</a></li>
+	</ul>
+</div>
+<p class="copyright">&copy; <span id="view_time"></span> NF</p>
+<script type="text/javascript">
+	document.getElementById("view_time").innerHTML = getNow();
+
+	function getNow() {
+		var now = new Date();
+		var year = now.getFullYear();
+
+		var s = year;
+		return s;
+	}
+</script>
