@@ -583,6 +583,10 @@ nav > .black {
 		top: 15px;
 		right: 10px;
 	}
+	#nav_drawer p {
+		color: #ccc;
+		text-align: left;
+	}
 
 	/* humberger icon*/
 	#nav_open span,
