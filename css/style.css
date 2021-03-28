@@ -645,6 +645,7 @@ nav > .black {
 		padding: 25px;
 		margin: 0 25px;
 		border-bottom: .9px solid #7e7e7e;
+		display: block;
 	}
 	#nav_content li:last-child{
 		border: none;
