@@ -683,6 +683,28 @@ nav > .black {
 		text-align: right;
 		top: 60px;
 	}
+	
+	/* WEB GRAPHIC VIDEO */
+	.works_title {
+		left: -30px;
+	}
+	.works_desc dl {
+		margin-left: 10%;
+	}
+	.works_desc:nth-of-type(2) {
+		margin-top: 0;
+	}
+	.works_desc dl {
+		padding: 50px;
+	}
+
+	/* PROF */
+	.flex_item_profile {
+		display: flex;
+	}
+	.flex_item_profile img {
+		width: 300px;
+	}
 
 }
 @media screen and (max-width: 375px){
